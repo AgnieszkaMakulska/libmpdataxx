@@ -27,6 +27,8 @@ Compilation of programs that use libmpdata++ requires:
 - HDF5 and gnuplot-iostream libraries
   (optional, depending on the type of output mechanism chosen)
 
+For build instructions (also using Spack or Singularity), see:
+https://github.com/igfuw/UWLCM/blob/master/build_instructions.md
 
 Singularity images for building libmpdata++ are available at:
 
